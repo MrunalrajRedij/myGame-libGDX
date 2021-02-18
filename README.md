@@ -1,2 +1,3 @@
 # myGame-libGDX
-Assignment for  Coding Deep Dive
+Assignment for  Coding Deep Dive.
+The project is in master branch.
